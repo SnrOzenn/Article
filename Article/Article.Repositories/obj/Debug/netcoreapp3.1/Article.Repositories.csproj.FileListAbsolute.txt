@@ -1,0 +1,9 @@
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.Repositories.deps.json
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.Repositories.dll
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.Repositories.pdb
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.csprojAssemblyReference.cache
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.AssemblyInfoInputs.cache
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.AssemblyInfo.cs
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.csproj.CoreCompileInputs.cache
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.dll
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.pdb

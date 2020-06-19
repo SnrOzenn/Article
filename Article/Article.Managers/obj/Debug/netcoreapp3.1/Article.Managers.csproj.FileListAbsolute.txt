@@ -1,0 +1,8 @@
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Managers.deps.json
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Managers.dll
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Managers.pdb
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.AssemblyInfoInputs.cache
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.AssemblyInfo.cs
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.csproj.CoreCompileInputs.cache
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.dll
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.pdb

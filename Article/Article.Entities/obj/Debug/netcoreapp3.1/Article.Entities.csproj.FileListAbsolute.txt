@@ -1,0 +1,9 @@
+C:\InterviewCases\Article\Article.Entities\bin\Debug\netcoreapp3.1\Article.Entities.deps.json
+C:\InterviewCases\Article\Article.Entities\bin\Debug\netcoreapp3.1\Article.Entities.dll
+C:\InterviewCases\Article\Article.Entities\bin\Debug\netcoreapp3.1\Article.Entities.pdb
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.csprojAssemblyReference.cache
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.AssemblyInfoInputs.cache
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.AssemblyInfo.cs
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.csproj.CoreCompileInputs.cache
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.dll
+C:\InterviewCases\Article\Article.Entities\obj\Debug\netcoreapp3.1\Article.Entities.pdb

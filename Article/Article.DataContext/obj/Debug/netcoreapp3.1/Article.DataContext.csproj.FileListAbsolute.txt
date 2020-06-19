@@ -1,0 +1,15 @@
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.DataContext.deps.json
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.DataContext.dll
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.csprojAssemblyReference.cache
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.AssemblyInfoInputs.cache
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.AssemblyInfo.cs
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.Entities.dll
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.DataContext.runtimeconfig.json
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.DataContext.runtimeconfig.dev.json
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.DataContext.pdb
+C:\InterviewCases\Article\Article.DataContext\bin\Debug\netcoreapp3.1\Article.Entities.pdb
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.csproj.CoreCompileInputs.cache
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.csproj.CopyComplete
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.dll
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.pdb
+C:\InterviewCases\Article\Article.DataContext\obj\Debug\netcoreapp3.1\Article.DataContext.genruntimeconfig.cache
