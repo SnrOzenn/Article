@@ -4,12 +4,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Article.Entities
 {
     [Table("Article")]
-    public class Article
+    public class Article : Definitions
     {
-        [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
 
-        public string ArticleExplanation { get; set; }
+        [StringLength(200)]
+        public string Header { get; set; }
+        public string Content { get; set; }
 
         [ForeignKey("Category")]
         public int CategoryId { get; set; }

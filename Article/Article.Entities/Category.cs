@@ -5,11 +5,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Article.Entities
 {
     [Table("Category")]
-    public class Category
+    public class Category : Definitions
     {
-        [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-
         [StringLength(50)]
         public string Name { get; set; }
 

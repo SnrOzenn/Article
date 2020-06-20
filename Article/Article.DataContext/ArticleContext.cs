@@ -12,8 +12,8 @@ namespace Article.DataContext
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(ConfigurationManager.ConnectionStrings["ArticleContext"].ConnectionString);
-            //optionsBuilder.UseSqlServer("Server=DESKTOP-LKU4G8U;Database=Articles;uid=sa;pwd=75433uo*");
+            //optionsBuilder.UseSqlServer(ConfigurationManager.g["ArticleContext"].);
+            optionsBuilder.UseSqlServer("Server=DESKTOP-LKU4G8U;Database=Articles;uid=sa;pwd=75433uo*");
         }
     }
 }
