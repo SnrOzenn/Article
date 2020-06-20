@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Article.DataContext;
 using Article.Managers.Absracts;
 using Article.Managers.Concrete;
@@ -9,12 +5,10 @@ using Article.Repositories.Absracts;
 using Article.Repositories.Concrete;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace Article.API
 {
@@ -30,6 +24,7 @@ namespace Article.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<ArticleContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:DefaultConnection"]));
             services.AddControllers();
             services.AddScoped<IArticleManager, ArticleManager>();
             services.AddScoped<IArticleRepository, ArticleRepository>();
