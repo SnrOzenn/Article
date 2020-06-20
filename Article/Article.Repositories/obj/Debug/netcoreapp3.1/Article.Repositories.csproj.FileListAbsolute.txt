@@ -7,3 +7,10 @@ C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.R
 C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.csproj.CoreCompileInputs.cache
 C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.dll
 C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.pdb
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.DataContext.dll
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.DTO.dll
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.Entities.dll
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.DataContext.pdb
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.DTO.pdb
+C:\InterviewCases\Article\Article.Repositories\bin\Debug\netcoreapp3.1\Article.Entities.pdb
+C:\InterviewCases\Article\Article.Repositories\obj\Debug\netcoreapp3.1\Article.Repositories.csproj.CopyComplete

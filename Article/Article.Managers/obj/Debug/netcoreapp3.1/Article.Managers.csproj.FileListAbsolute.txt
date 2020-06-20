@@ -6,3 +6,13 @@ C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Manag
 C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.csproj.CoreCompileInputs.cache
 C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.dll
 C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.pdb
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.DataContext.dll
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.DTO.dll
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Entities.dll
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Repositories.dll
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.DTO.pdb
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Repositories.pdb
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.DataContext.pdb
+C:\InterviewCases\Article\Article.Managers\bin\Debug\netcoreapp3.1\Article.Entities.pdb
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.csprojAssemblyReference.cache
+C:\InterviewCases\Article\Article.Managers\obj\Debug\netcoreapp3.1\Article.Managers.csproj.CopyComplete
