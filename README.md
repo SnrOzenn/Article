@@ -11,3 +11,5 @@ Route Yapısı :
 ~/api/Article/UpdateArticle/{id}  :Parametrede Gelen id'ye Ait Kaydı Body'de Gönderilen Model Olarak Günceller
 ~/api/Article/RemoveArticle/{id} : Parametrede Gönderilen id'ye Ait Kaydı Siler
 ~/api/Article/Search/{Content} : Parametrede Gönderilen Değeri İçeren Kayıtları Listeler
+
+Appsetting.Json-> ConnectionString Mevcut Database Yolu Verilmelidir!
